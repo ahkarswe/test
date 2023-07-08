@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../lesson"
+		},
+		{
+			"name": "New folder",
+			"path": "../New folder"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lesson",
+		"debug.internalConsoleOptions": "neverOpen"
+	}
+}
